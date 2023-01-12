@@ -36,6 +36,13 @@ h6,
     padding-top: 90px;
     padding-bottom: 90px;
 }
+.display {
+    margin-left: 210px;
+
+}
+.display1 {
+    margin-left: 48px;
+}
 
 .btn {
     font-family: 'Barlow', sans-serif;
