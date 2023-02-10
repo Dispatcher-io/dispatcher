@@ -1,0 +1,38 @@
+
+.user{
+    float: left;
+    padding-top: 180px;
+    padding-left: 200px;
+    margin-left: 220px;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.costumer{
+    float: right;
+    padding-right: 200px;
+    max-width: 340px;
+    min-height: 400px;
+    padding: 10px 10px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 270px;
+    border-radius: 5px;
+    border: solid 1px  white;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, .31);
+    background: lightblue;
+}
+
+
+.user-type{
+
+    width: 400%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: black;
+    border: 1px solid #3e3e3e;
+    color: white;
+    border-radius: 15px;
+  }
